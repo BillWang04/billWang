@@ -5,16 +5,14 @@ favouriteMovieGenre("regular")
 favouriteFruit("regular")
 
 // light, dark
-favouriteMode("light")
+favouriteMode("dark")
 
 // sharp, soft, round
 favouriteEdgeStyle("sharp")
 
 
 
-////////////////////////////////////
-// IGONE THE CODE BELOW THIS LINE //
-////////////////////////////////////
+
 
 function setProp(prop, value) {
     document.documentElement.style.setProperty(prop, value)
